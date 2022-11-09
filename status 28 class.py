@@ -1,0 +1,7 @@
+token = "Bearer bd6648bc9827db267da725fab6f1c7332b77ec3cce9b99745e10118116c1568d"
+cookie = '_gorest_session=6T7sKXZ%2B8l39s6tZNSqPEvqWQIBoGN1' \
+         'z0FLPgPU3IHQBDVk1%2BJJUORTo3fC4NNU5r6jO5EVJh7rfs2XUQ%' \
+         '2FJWearQjEnYo9CjmX7roXHiEwkIKBJkR0fCI0DxfURTAH1NCIc6vEPNh' \
+         'YJUDFMuWkeeMZilYsArEwRp%2BRFLkDBqcVQPV0ZnMtogSLijV2NwKKivvUj' \
+         'Du0ndHLJ3Tiug9eqyeEmeSA6XSyAQy8sYAAZ2RamMs5IGryl8s7K3ZRGkOHW4K' \
+         'nkCCP7yAw43j6OB7OvhqbItLEgXr4k%3D--bNVKXCHXb3wbDEN0--xbgF6POo5iTi45HmpX5PPQ%3D%3D'
